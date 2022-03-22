@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/redux-saga.iml" filepath="$PROJECT_DIR$/.idea/redux-saga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rtk-query/.idea/rtk-query.iml" filepath="$PROJECT_DIR$/../rtk-query/.idea/rtk-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tools/server/.idea/server.iml" filepath="$PROJECT_DIR$/../tools/server/.idea/server.iml" />
+    </modules>
+  </component>
+</project>

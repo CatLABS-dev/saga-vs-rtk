@@ -1,0 +1,16 @@
+.todo-item {
+    transition: 0.2s ease-in-out;
+    @apply m-0 p-4 flex border-l-4 cursor-pointer mb-1;
+}
+
+.todo-item .active {
+    @apply border-orange-500;
+}
+
+.todo-item .completed {
+    @apply border-green-400 text-gray-600;
+}
+
+.todo-item:hover {
+    @apply px-5;
+}
